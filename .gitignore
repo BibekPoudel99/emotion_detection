@@ -1,0 +1,5 @@
+ML_Model/
+Data_Sets/
+myenv/
+best_model.h5
+emotion_detection.tflite
